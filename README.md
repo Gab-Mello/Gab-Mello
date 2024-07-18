@@ -29,7 +29,7 @@
 
 ###
 
-## Technologies I've already used:
+## My Techs
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45" alt="java logo"  />
   <img width="12" />
