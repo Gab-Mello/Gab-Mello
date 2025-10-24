@@ -4,7 +4,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬  Since the second year of school, when I started studying the C language, my interest in the world of technology has only increased. Currently, I'm studying Golang.
+  - 💬  Since the second year of school, when I started studying the C language, my interest in the world of technology has only increased. Currently, I'm a Software Developer at SAP.
 
   - ⚡  I have a strong interest in solving complex problems and creating efficient solutions, which leads me to constantly seek new knowledge and skills.
 </details>
